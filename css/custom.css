@@ -1,7 +1,7 @@
 body {
     background: #000428;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #004e92, #000428);  
-background: linear-gradient(to right, #004e92, #000428); 
+background: -webkit-linear-gradient(to right, #004e92, #000428);
+background: linear-gradient(to right, #004e92, #000428);
 }
 header {
     margin: 30px 0;
@@ -35,4 +35,7 @@ h2 {
     color:#004e92;
     font-size: 22px;
     margin-bottom:30px;
+}
+i {
+  float: right;
 }
